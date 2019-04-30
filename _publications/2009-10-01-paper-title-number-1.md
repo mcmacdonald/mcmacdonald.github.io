@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Estimating risks of arrest and criminal populations: Regression adjustments to capture–recapture models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-10-19-estimating-risks-of-arrest-and-criminal-populations-cd
+excerpt: 'Our study estimates the number of people who were at risk of arrest for possession, selling, and/or other offencses involving amphetamine-type stimulants (ATS) in Quebec, using distributions of arrest and re-arrests from 1999-2009. Our data run through a decade where many argued Canada was a 'key player' in global production and supply of ATS after several large internal seizures. This claim was never substantiated and was perhaps exaggerated, although there was still evidence of a large local supply and demand: (1) large quantities of ATS seized from a small number of labs; (2) few arrests for importation-exportation; and (3) available data on past-month, past-year, and lifetime drug use from general population surveys show consistently high rates of methamphetamine and ecstasy use in Quebec year-after-year compared with what was observed across other Canadian provinces.
+
+So, were the rising number of arrests an indicator of a growing local drug market, or simply the result of changing police priorities during a time where ATS were an issue for local police? Our results show that the rising number of arrests weren't just a police response to perceptions about Canada's role in global ATS production and supply or Quebec's high rates of ATS use, but rather a steady rise in the populations at risk of arrest for possession and/or selling offenses across the study period. Risk of arrest within and across the study period ranged 8-12% and was greater for offences involving methamphetamine (8-12%) than ecstasy (1-3%), risks of arrests that correspond with the harms of these substances.'
+date: 2018-10-19
+venue: 'Crime & Delinquency'
+citation: 'Bouchard, M., Morselli, C., Macdonald, M., Gallupe, O., Zhang, S., & Farabee, D. (2018). &quot;Estimating risks of arrest and criminal populations: Regression adjustments to capture-recapture models&quot; <i>Crime & Delinquency</i>. Online first.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Abstract: The size of criminal populations is unknown, and policy decisions are typically based only on the number of offenses and offenders that come to the attention of the criminal justice system. However, the size of criminal populations may follow different trends than what is observed in official data. We use a regression-adjusted capture–recapture model to estimate the number of people at risk of arrest for offenses involving amphetamine-type stimulants (ATS) from arrests and rearrests occurring in Quebec, Canada, controlling for year of first arrest, age, and gender. The 4,989 individuals arrested were the visible part of an estimated 42,541 [36,936, 48,145] individuals otherwise at risk of arrest (12%). Additional results show that trends in criminal populations and risks of arrest vary across offense type and drug classifications.
